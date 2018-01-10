@@ -2,8 +2,8 @@
 # -*- encoding: utf-8 -*-
 __author__ = 'Cheung'
 
-user = '774405502@qq.com'
-pwd = 'wo123456'
+user = 'xxx'
+pwd = 'xxx'
 TRAIN_URL = 'https://kyfw.12306.cn/otn/leftTicket/queryZ'
 TRAIN_DATE = "2018-01-13"
 FROM_STATION = '深圳'

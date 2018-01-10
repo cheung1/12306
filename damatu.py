@@ -109,7 +109,7 @@ class DamatuApi():
 		jres = json.loads(res)
 		return jres['ret']
 
-dmt = DamatuApi("Cheung", "cheung_")
+dmt = DamatuApi("xxx", "xxx")
 
 def getCode():
 	codeStr = dmt.decode('code.png', 287)  	# 上传打码
